@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WcMYIYIldF3EL5aK8ZIx90MjW+XC1KR5nT3CnjTIWo6FWeQX0TBirLLN2Xwi1FWRJjfIVMzJC2vOp3agQakm8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ricardo\\OneDrive\\Cursos\\Udemy\\Seja Full-Stack com Dot NET Web API e Angular + EF Core - 2022\\ProEventos\\backend\\ProEventos\\Api.ProEventos\\Api.ProEventos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricardo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

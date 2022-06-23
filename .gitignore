@@ -460,12 +460,12 @@ speed-measure-plugin*.json
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
+frontend/ProEventos-App/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-.history/*
+frontend/ProEventos-App/.history/*
 
 # misc
 /.sass-cache
